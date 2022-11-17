@@ -5,3 +5,8 @@ A simple application running in a Docker container accessible by localhost:8000
 ```
 docker-compose -f docker-compose.yaml up --build
 ```
+
+## API
+<p align="center">
+  <img src="api.png" width="600" />
+</p>
